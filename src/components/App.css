@@ -1,6 +1,8 @@
 .App {
   text-align: center;
+  padding-top: 5%;
 }
+
 .question{
   background-color: #76959F;
   width: 80%;
@@ -26,15 +28,9 @@ li{
   border-radius: 20px;
   margin-top: 20px;
 }
-input{
-  width: 30px;
-  height: 30px;
-  float: left;
-}
-
 
 .results{
-  background-color: #76959F ;
+  background-color: #76959F;
   width: 50%;
   height: auto;
   padding: 20px;
@@ -42,15 +38,3 @@ input{
   border-radius: 20px;
   color: white;
 }
-
-h4{
-  width: 100px;
-  height: 100px;
-  background-color: #1B2D87;
-  border-radius: 50%;
-  text-align: center;
-  padding-top: 5%;
-  margin:  0 auto;
-}
-
-
